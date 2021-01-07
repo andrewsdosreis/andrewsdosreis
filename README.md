@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-[![Andrews' github stats](https://github-readme-stats.vercel.app/api?username=andrewsdosreis&show_icons=true&theme=radical)](https://github.com/andrewsdosreis/github-readme-stats)
+<br />
+<br />
+
+### Recent Acitivies ✨
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsdosreis&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=andrewsdosreis&theme=radical&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
 
 <!--
 **andrewsdosreis/andrewsdosreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
