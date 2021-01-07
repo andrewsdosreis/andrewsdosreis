@@ -1,9 +1,6 @@
-### Hi there 👋
-
+### Hi there, I'm Andrews Reis! 👋
 <br />
 <br />
-
-### Recent Acitivies ✨
 <center>
 <table>
   <tr>
