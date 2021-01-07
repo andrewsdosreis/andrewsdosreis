@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Andrews' github stats](https://github-readme-stats.vercel.app/api?username=andrewsdosreis&show_icons=true&theme=radical)](https://github.com/andrewsdosreis/github-readme-stats)
+
 <!--
 **andrewsdosreis/andrewsdosreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
